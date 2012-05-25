@@ -18,14 +18,14 @@ But, Ambiance theme shipped with Ubuntu 12.04 had several issues.
 Fixes made with Ambiance-Precise
 --------------------------------
 
-The theme fixed all above mentioned UI glitches.
+The theme fixes all above mentioned UI glitches.
 
 * Context menus are dark, to match with rest of the theme (a fix).
 * Font color of panel menu in classic mode is white and icon is also visible (a fix).
 * Nautilus now has dark sidebar (new addition).
   
 
-There is a [long discussion on Launchpad][discussion] with many affected Users
+There is a [a thread on Launchpad][discussion] with many affected Users
 which you should read if you want the full story.
 
   [discussion]: https://bugs.launchpad.net/ubuntu/+source/light-themes/+bug/925895
@@ -43,8 +43,8 @@ settings panel.
 Bugs/Issues
 -----------
 
-Any theme issues should be reported against the master [Light Themes][master]
-project. Those related to wrong menu colouring should be reported in here.
+Any general theme issues should be reported against the main [Light Themes][master]
+project on hosted on Launchpad. You may report here the issues related to fixes made as mentioned above.
 
   [master]: https://code.launchpad.net/~ubuntu-art-pkg/light-themes/trunk
 
